@@ -1,3 +1,3 @@
 # Demo
 
-Some description
+creating my first commit, learning Git :D
